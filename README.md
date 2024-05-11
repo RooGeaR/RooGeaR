@@ -73,7 +73,6 @@ I'm a developer with experience in Web technologies for more than 9 years, with 
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 </a>
 
-
 <a href="https://github.com">
 <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 </a>
