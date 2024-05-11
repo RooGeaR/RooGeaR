@@ -25,6 +25,7 @@ I'm a developer with experience in Web technologies for more than 9 years, with 
 </p>
 
 ## 💻 My Tech Stack
+<p>
 <a href="https://www.w3schools.com/html/">
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 </a>
@@ -104,6 +105,7 @@ I'm a developer with experience in Web technologies for more than 9 years, with 
 <a href="https://aws.amazon.com/">
 <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </a>
+</p>
 
 <hr>
 
