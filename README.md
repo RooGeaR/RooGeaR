@@ -24,6 +24,10 @@ I'm a developer with experience in Web technologies for more than 9 years, with 
   </a>&nbsp;&nbsp;
 </p>
 
+<p align="center">
+   <img src="https://raw.githubusercontent.com/RooGeaR/RooGeaR/main/dev.gif"> 
+</p>
+
 ## 💻 My Tech Stack
 <p>
 <a href="https://www.w3schools.com/html/">
